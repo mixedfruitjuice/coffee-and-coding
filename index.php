@@ -193,7 +193,7 @@
 
                         <div class="caption">
                             <h3>Will there be a schedule?</h3>
-                            <p>Yes ofcourse! We're still working on it. When it's done we will publish it on our website.</p>
+                            <p>Yes of course! We're still working on it. When it's done we will publish it on our website.</p>
                         </div>
                     </div>
                 </div>
