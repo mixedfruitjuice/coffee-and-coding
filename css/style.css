@@ -1,5 +1,6 @@
-* {
-    overflow-x: hidden;
+html,body
+{
+    overflow-x: hidden; 
 }
 /* Clearfix */
 .clearfix:before,
@@ -16,16 +17,14 @@
 
 .mediacentrale {
     position: absolute;
-    min-width: 100%;
+    min-width: 80%;
     max-width: 100%;
     opacity: 0.4;
     filter: alpha(opacity=40);
-    no-repeat 50% 50%
 }
 
 #beginning {
     height: 1080px;
-    width: 100%;
 }
 
 #contact {

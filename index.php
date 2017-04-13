@@ -20,8 +20,8 @@
                 <li><a href="#team">Team</a></li>
                 <li><a href="#faq">Faq's</a></li>
                 <li><a href="#sponsors">Sponsors</a></li>
-                <li><a href="#">Venue</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><a href="#venue">Venue</a></li>
+                <li><a href="#contact">Contact</a></li>
             </ul>
             <a href="#" id="pull"></a>
         </nav>
