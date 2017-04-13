@@ -3,7 +3,10 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="utf-8">
+        <meta charset="UTF-8">
+        <meta name="description" content="Coffee and Coding hackathon">
+        <meta name="keywords" content="Coffee and Coding, Groningen hackathon, hackathon Groningen, MLH hackathon netherlands, Hackathon Netherlands">
+        <meta name="author" content="Yannick Forget">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
         <title>Coffee and Coding | Home</title>
         <link rel="stylesheet" type="text/css" href="css/style.css">
