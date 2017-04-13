@@ -24,6 +24,13 @@
     width: 100%;
 }
 
+.organization {
+    position: relative;
+    margin-right: 120px;
+    width: 60%;
+    height: 100%;
+}
+
 #beginning h2 {
     position: absolute;
     text-align: center;
@@ -32,6 +39,33 @@
     top: 20%;
     left: 0;
     width: 100%;
+}
+
+#about p {
+    text-align: center;
+    position: relative;
+    font-size: 15px;
+}
+
+#team h3 {
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+}
+
+#team img{
+    float: left;
+}
+
+#team h4 {
+    position: relative;
+    
+}
+
+#about h3 {
+    position: relative;
+    text-align: center;
+    font-size: 30px;
 }
 
 .register {
@@ -154,19 +188,25 @@ nav a#pull {
     }
 }
 
-@media screen and (max-width: 850px) {
+@media screen and (max-width: 1000px) {
+    
+    #team h4 {
+        position: relative;
+        float: none;
+    }
+
 
     #beginning img {
         display: none;
     }
 
     #beginning h2 {
-        top: 30%;
+        top: 40%;
         color: black;
     }
 
     #beginning div a {
-        top: 40%;
+        top: 46%;
     }
 
 	nav {
