@@ -231,7 +231,7 @@
 
                         <div class="caption">
                             <h3>Will there be a place to sleep?</h3>
-                            <p>We will have a "chill room" for you to take a quick nap or just to chill out but we don't advice you to sleep there if you want a good night of sleep. If you want to use this room to take a nap we advice you to bring your sleepingbag and pillow. </p>
+                            <p>We will have a "chill room" for you to take a quick nap or just to chill out but we don't advice you to sleep there if you want a good night of sleep. If you want to use this room to take a nap we advice you to bring your sleeping bag and pillow. </p>
                         </div>
                     </div>
                 </div>
