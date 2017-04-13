@@ -155,7 +155,7 @@
 
                         <div class="caption">
                             <h3>Where and when will this event take place?</h3>
-                            <p>We are proud to announce that the event is going take place at the Mediacentrale in Groningen from the 25 till the 26th of july 2017. The event will be 24 approximately.</p>
+                            <p>We are proud to announce that the event is going take place at the Mediacentrale in Groningen from the 25 till the 26th of july 2017. The event will be 24 hours approximately.</p>
                         </div>
                     </div>
                 </div>
