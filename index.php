@@ -38,12 +38,12 @@
         <section id="about" class="container">
             <h3>Do you like creating stuff and are you a dreamer but also someone who likes to turn his dreams into reality?</h3>
             <p>Then you are welcome to join these 24 hours on the 25th of july till the 26th of july. Every College and high school student is welcome to join us and create and pitch their idea.
-                Did you always had an amazing idea for an ultra supersonic app or a new trailblazing website or piece of software then these 24 hours are an amazing oppurtunity for you. You'll join
+                Did you always have an amazing idea for an ultra supersonic app or a new trailblazing website or a piece of software then these 24 hours are an amazing oppurtunity for you. You'll join
                 a lot of other nerds/geeks/super hero's/designers etc. to turn your concept into an amazing prototype that you can pitch at the end of the hackathon.
                 <br>
                 <br>
                 There will be sponsors and mentors from other companies to make these 24 hours an amazing success for you. At the end of the hackathon you'll have to pitch your idea with your team and a jury of
-                professionals will judge your prototype. You can will serveral prizes and meet a lot of new people! in short, just an amazing experience that you can be proud of!
+                professionals will judge your prototype. You can win serveral prizes and meet a lot of new people! in short, just an amazing experience that you can be proud of!
             </p>
         </section>
         
