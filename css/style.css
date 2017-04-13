@@ -1,3 +1,6 @@
+* {
+    overflow-x: hidden;
+}
 /* Clearfix */
 .clearfix:before,
 .clearfix:after {
@@ -17,6 +20,7 @@
     max-width: 100%;
     opacity: 0.4;
     filter: alpha(opacity=40);
+    no-repeat 50% 50%
 }
 
 #beginning {
@@ -24,12 +28,24 @@
     width: 100%;
 }
 
-.organization {
-    position: relative;
-    margin-right: 120px;
-    width: 60%;
-    height: 100%;
+#contact {
+    background: #5CBC6F;
+    
+    height: 400px;
+    width: 100%;
 }
+
+#social{
+    margin: 0 auto;
+    list-style-type: none !important;
+}
+
+
+#social li{
+    display: inline-block;
+
+}
+
 
 #beginning h2 {
     position: absolute;
@@ -53,6 +69,24 @@
     font-size: 30px;
 }
 
+#contact h3 {
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+}
+
+#faq h3 {
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+}
+
+#sponsors h3 {
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+}
+
 #team img{
     float: left;
 }
@@ -67,6 +101,13 @@
     text-align: center;
     font-size: 30px;
 }
+
+#venue h3 {
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+}
+
 
 .register {
     height: 100%;
@@ -186,6 +227,31 @@ nav a#pull {
     #beginning div a {
         top: 30%;
     }
+    
+    #about {
+        position: relative;
+        bottom: 300px;
+    }
+    
+    #team {
+        position: relative;
+        bottom: 300px;
+    }
+    
+    #faq {
+        position: relative;
+        bottom: 300px;
+    }
+    
+    #sponsors {
+        position: relative;
+        bottom: 300px;
+    }
+    
+    #venue {
+        position: relative;
+        bottom: 300px;
+    }
 }
 
 @media screen and (max-width: 1000px) {
@@ -231,6 +297,31 @@ nav a#pull {
 	  	width: 100%;
 	  	text-indent: 25px;
   	}
+    
+    #about {
+        position: relative;
+        bottom: 360px;
+    }
+    
+    #team {
+        position: relative;
+        bottom: 360px;
+    }
+    
+    #faq {
+        position: relative;
+        bottom: 360px;
+    }
+    
+    #sponsors {
+        position: relative;
+        bottom: 360px;
+    }
+    
+    #venue {
+        position: relative;
+        bottom: 360px;
+    }
 }
 
 /*Styles for screen 515px and lower*/
@@ -269,6 +360,32 @@ nav a#pull {
 		right: 15px;
 		top: 10px;
 	}
+    
+    #about {
+        position: relative;
+        bottom: 600px;
+    }
+    
+    #team {
+        position: relative;
+        bottom: 600px;
+    }
+    
+    #faq {
+        position: relative;
+        bottom: 600px;
+    }
+    
+    #sponsors {
+        position: relative;
+        bottom: 600px;
+    }
+    
+    #venue {
+        position: relative;
+        bottom: 600px;
+    }
+    
 }
 
 /*Smartphone*/
