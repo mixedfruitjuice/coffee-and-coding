@@ -12,6 +12,15 @@
         <link rel="stylesheet" type="text/css" href="css/style.css">
         <link rel="stylesheet" type="text/css" href="css/normalize.css">
         <link href="css/bootstrap.min.css" rel="stylesheet">
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-98725162-1', 'auto');
+            ga('send', 'pageview');
+        </script>
     </head>
     <body>
         <nav class="clearfix">
@@ -21,7 +30,7 @@
                 <li><a href="#beginning">Home</a></li>
                 <li><a href="#about">About</a></li>
                 <li><a href="#team">Team</a></li>
-                <li><a href="#faq">Faq's</a></li>
+                <li><a href="#faq">FAQ's</a></li>
                 <li><a href="#sponsors">Sponsors</a></li>
                 <li><a href="#venue">Venue</a></li>
                 <li><a href="#contact">Contact</a></li>
@@ -36,8 +45,11 @@
             </div>
         </section>
         <section id="about" class="container">
+
+            <p id="countdown"></p>
+
             <h3>Do you like creating stuff and are you a dreamer but also someone who likes to turn his dreams into reality?</h3>
-            <p>Then you are welcome to join these 24 hours on the 25th of july till the 26th of july. Every College and high school student is welcome to join us and create and pitch their idea.
+            <p>Then you are welcome to join these 24 hours on the 22-23 of August. Every College and high school student is welcome to join us and create and pitch their idea.
                 Did you always have an amazing idea for an ultra supersonic app or a new trailblazing website or a piece of software then these 24 hours are an amazing oppurtunity for you. You'll join
                 a lot of other nerds/geeks/super hero's/designers etc. to turn your concept into an amazing prototype that you can pitch at the end of the hackathon.
                 <br>
@@ -46,7 +58,7 @@
                 professionals will judge your prototype. You can win serveral prizes and meet a lot of new people! in short, just an amazing experience that you can be proud of!
             </p>
         </section>
-        
+
         <section id="team" class="container">
             <div class="row">
                 <h3>Team</h3>
@@ -114,12 +126,12 @@
                     </div>
                 </div>
             </div>
-            
+
         </section>
-        
+
         <section id="faq" class="container">
             <div class="row">
-                <h3>Faq's</h3>
+                <h3>FAQ's</h3>
                 <div class="col-sm-6 col-md-4">
                     <div class="thumbnail">
 
@@ -129,7 +141,7 @@
                         </div>
                     </div>
                 </div>
-                
+
                 <div class="col-sm-6 col-md-4">
                     <div class="thumbnail">
 
@@ -139,7 +151,7 @@
                         </div>
                     </div>
                 </div>
-                
+
                 <div class="col-sm-6 col-md-4">
                     <div class="thumbnail">
 
@@ -155,11 +167,11 @@
 
                         <div class="caption">
                             <h3>Where and when will this event take place?</h3>
-                            <p>We are proud to announce that the event is going take place at the Mediacentrale in Groningen from the 25 till the 26th of july 2017. The event will be 24 hours approximately.</p>
+                            <p>We are proud to announce that the event is going take place at the Mediacentrale in Groningen from the 22-23 august 2017. The event will be 24 hours approximately.</p>
                         </div>
                     </div>
                 </div>
-                
+
                 <div class="col-sm-6 col-md-4">
                     <div class="thumbnail">
 
@@ -178,7 +190,7 @@
                         </div>
                     </div>
                 </div>
-    
+
                 <div class="col-sm-6 col-md-4">
                     <div class="thumbnail">
 
@@ -206,7 +218,7 @@
                         </div>
                     </div>
                 </div>
-                
+
                 <div class="col-sm-6 col-md-4">
                     <div class="thumbnail">
 
@@ -225,7 +237,7 @@
                         </div>
                     </div>
                 </div>
-                
+
                 <div class="col-sm-6 col-md-4">
                     <div class="thumbnail">
 
@@ -236,9 +248,9 @@
                     </div>
                 </div>
             </div>
-            
+
         </section>
-        
+
         <section id="sponsors" class="container">
             <h3>Sponsors</h3>
             <div class="row">
@@ -249,12 +261,12 @@
                     <a href="http://waarmediacentrale.nl"><img src="img/waar.png"></a>
                 </div>
             </div>
-                
+
             <h3>Also want to sponsor? info@coffeeandcoding.nl</h3>
         </section>
-        
-  
-        
+
+
+
         <section id="venue" class="container">
             <h3>Venue</h3>
             <img style="display: block; margin: 0 auto; text-align: center; max-width: 100%;" src="img/mediacentrale2.jpg">
@@ -269,24 +281,24 @@
                     <p>We are proud to announce that the Mediacentrale in Groningen will be our venue for this event. The mediacentrale is a great place for events like this. A lot of IT and Media companies are located here. The Mediacentrale is a 3 min walk from Europapark Groningen trainstation. If you're coming by bus you can take busline 5 (direction Europapark) and get out at Europapark. For the people that really like to walk: you can take a 20 minute walk from the central station of Groningen.</p>
                 </div>
             </div>
-                
+
         </section>
-        
+
         <section id="contact">
             <h3>Still have a question or do you want to sponsor? <br> You can always shoot us an <a href="mailto: info@coffeeandcoding.nl">e-mail!</a></h3>
             <div class="row">
                 <div class="col-md-3 col-sm-12">
                     <ul id="social">
-                        <li><a href="https://twitter.com/coffee_n_coding"><img style="display: block; margin: 0 auto;" src="img/twitter.png"></a></li>
+                        <li><a href="https://twitter.com/coffee_n_coding" target="_blank"><img style="display: block; margin: 0 auto;" src="img/twitter.png"></a></li>
+                        <li><p>@coffee_n_coding</p></li>
                     </ul>
-                    
+
                 </div>
             </div>
         </section>
-        
+
         <script src="js/jquery.js"></script>
         <script src="js/bootstrap.min.js"></script>
         <script src="js/script.js"></script>
     </body>
 </html>
-

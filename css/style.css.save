@@ -1,6 +1,6 @@
 html,body
 {
-    overflow-x: hidden;
+    overflow-x: hidden; 
 }
 /* Clearfix */
 .clearfix:before,
@@ -27,16 +27,17 @@ html,body
     height: 1080px;
 }
 
-#contact {
+#contact {  
     padding: 10px 0;
-    background: #222;
-
+    background: #222;    
     width: 100%;
 }
+
 #social{
     margin: 0 auto;
     list-style-type: none !important;
 }
+
 
 #social li {
     text-align: center;
@@ -49,11 +50,6 @@ html,body
 
 #social li p {
     color: #fff;
-}
-
-#countdown {
-    text-align: center;
-    font-size: 80px !important;
 }
 
 #beginning h2 {
@@ -102,7 +98,7 @@ html,body
 
 #team h4 {
     position: relative;
-
+    
 }
 
 #about h3 {
@@ -235,27 +231,27 @@ nav a#pull {
     #beginning div a {
         top: 30%;
     }
-
+    
     #about {
         position: relative;
         bottom: 300px;
     }
-
+    
     #team {
         position: relative;
         bottom: 300px;
     }
-
+    
     #faq {
         position: relative;
         bottom: 300px;
     }
-
+    
     #sponsors {
         position: relative;
         bottom: 300px;
     }
-
+    
     #venue {
         position: relative;
         bottom: 300px;
@@ -263,7 +259,7 @@ nav a#pull {
 }
 
 @media screen and (max-width: 1000px) {
-
+    
     #team h4 {
         position: relative;
         float: none;
@@ -305,6 +301,44 @@ nav a#pull {
         width: 100%;
         text-indent: 25px;
     }
+    
+    #about {
+        position: relative;
+        bottom: 360px;
+    }
+    
+    #team {
+        position: relative;
+        bottom: 360px;
+    }
+    
+    #faq {
+        position: relative;
+        bottom: 360px;
+    }
+    
+    #sponsors {
+        position: relative;
+        bottom: 360px;
+    }
+    
+    #venue {
+        position: relative;
+        bottom: 360px;
+    }
+}
+
+/*Styles for screen 515px and lower*/
+@media only screen and (max-width : 480px) {
+
+    #beginning h2 {
+        top: 10% !important;
+        color: black;
+    }
+
+    #beginning div a {
+        top: 30%;
+    }
 
     nav {
         border-bottom: 0;
@@ -331,77 +365,32 @@ nav a#pull {
         right: 15px;
         top: 10px;
     }
-
-    #about {
-        position: relative;
-        bottom: 360px;
-    }
-
-    #team {
-        position: relative;
-        bottom: 360px;
-    }
-
-    #faq {
-        position: relative;
-        bottom: 360px;
-    }
-
-    #sponsors {
-        position: relative;
-        bottom: 360px;
-    }
-
-    #venue {
-        position: relative;
-        bottom: 360px;
-    }
-
-}
-
-/*Styles for screen 515px and lower*/
-@media only screen and (max-width : 515px) {
-
-    #beginning h2 {
-        top: 10% !important;
-        color: black;
-    }
-
-    #beginning div a {
-        top: 30%;
-    }
-
-
-
+    
     #about {
         position: relative;
         bottom: 600px;
     }
-
+    
     #team {
         position: relative;
         bottom: 600px;
     }
-
+    
     #faq {
         position: relative;
         bottom: 600px;
     }
-
+    
     #sponsors {
         position: relative;
         bottom: 600px;
     }
-
+    
     #venue {
         position: relative;
         bottom: 600px;
     }
-
-    .register h2 {
-        padding-bottom: 100px;
-    }
-
+    
 }
 
 /*Smartphone*/
